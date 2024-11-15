@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\SolicitudRepository.class
+com\example\demo\WebServiceConfig.class
+com\example\demo\TipoCambioClient$1.class
+com\example\demo\Solicitud.class
+com\example\demo\TipoCambioClient.class
+com\example\demo\TipoCambioController.class
